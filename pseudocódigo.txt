@@ -1,0 +1,4 @@
+- Peça ao usuário o tamanho da altura.
+- Se o tamanho da altura for menor que 1 ou maior que 8(ou não inteiro), fique nesse passo até que o usuário insira uma entrada válida.
+- Itere a variável i até o tamanho da altura.
+- Imprima os # (inserindo as quebras de linha)
